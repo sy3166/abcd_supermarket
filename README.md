@@ -21,4 +21,3 @@ Employee credentials:
 employee@gmail.com
 employee123
 
-# LAB_PROJ
